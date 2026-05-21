@@ -1,0 +1,11 @@
+Pakistani Currency Detection Log
+========================================
+
+Note 1
+Detected Note : Rs. 5000 Rupees
+Confidence    : 0.88
+------------------------------
+Note 2
+Detected Note : Rs. 5000 Rupees
+Confidence    : 0.84
+------------------------------

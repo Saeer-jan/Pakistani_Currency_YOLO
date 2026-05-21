@@ -1,0 +1,7 @@
+Pakistani Currency Detection Log
+========================================
+
+Note 1
+Detected Note : Rs. 50 Rupees
+Confidence    : 0.84
+------------------------------
