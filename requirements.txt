@@ -1,0 +1,16 @@
+# ==========================================
+# Pakistani Currency Detection System
+# Project Dependencies
+# ==========================================
+
+# Core Machine Learning & Vision Library
+ultralytics>=8.0.0
+
+# Image Processing & Webcam
+opencv-python>=4.8.0
+
+# Visualization
+matplotlib>=3.7.0
+
+backside of 500 is less in dataset 
+and front side of 50 is less in dataset 
